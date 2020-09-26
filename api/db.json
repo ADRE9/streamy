@@ -1,0 +1,37 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "My very first stream.",
+      "id": 1
+    },
+    {
+      "title": "asdf",
+      "description": "asdf",
+      "id": 2
+    },
+    {
+      "title": "Another  stream",
+      "description": "our 2nd stream",
+      "id": 3
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "viola!!",
+      "userId": "116216156344039308588",
+      "id": 7
+    },
+    {
+      "title": "STream about refractoring patch request",
+      "description": "refractor some components...yes!!",
+      "userId": "116216156344039308588",
+      "id": 8
+    },
+    {
+      "title": "wfwfw",
+      "description": "fwfwwwwwddvxvvcx",
+      "userId": "116216156344039308588",
+      "id": 9
+    }
+  ]
+}
